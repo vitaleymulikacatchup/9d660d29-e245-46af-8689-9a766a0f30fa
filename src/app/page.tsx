@@ -168,7 +168,6 @@ export default function LandingPage() {
               id: "testimonial-4",              name: "Michael Thompson",              role: "Business Owner",              testimonial: "I bring all my clients here. The ambiance and quality of service set the perfect tone for business conversations.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=mwsw6s",              imageAlt: "Michael Thompson",              icon: Star
             }
           ]}
-          gridVariant="two-columns-alternating-heights"
           animationType="blur-reveal"
           textboxLayout="default"
           useInvertedBackground={true}
